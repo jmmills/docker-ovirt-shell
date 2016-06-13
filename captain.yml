@@ -1,0 +1,3 @@
+ovirt-shell:
+  image: jmmills/ovirt-shell
+  build: Dockerfile
